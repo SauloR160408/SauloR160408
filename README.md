@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SauloR160408&show_icons=true&theme=transparent&locale=pt-br&)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SauloR160408&show_icons=true&theme=transparent&locale=pt-br&)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauloR160408&layout=donut&theme=transparent&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
@@ -42,6 +42,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/saulo-souza-a3ab6637b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:saulora456@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/></a>
+  <a href="mailto:saulor978@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/></a>
   
 </p>
